@@ -1,0 +1,35 @@
+﻿@model List<_0MVC.Models.Emp>
+
+<div class="container-md">
+    <div class="container-sm pb-2">
+        <a href="/Home/Create" class="btn btn-primary">Add New Record</a>
+    </div>
+    <div class="table-responsive text-center">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Name</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var emp in Model)
+                {
+                    <tr>
+                        <td>@emp.No</td>
+                        <td>@emp.Name</td>
+                        <td>@emp.Address</td>
+                        <td>
+                            <a class="btn btn-info" href="/Home/Edit/@emp.No">Edit</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-warning" href="/Home/Delete/@emp.No">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

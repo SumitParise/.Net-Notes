@@ -1,0 +1,25 @@
+﻿
+<p>Use this page to detail your site's privacy policy.</p>
+<div class=" container">
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>Name</td>
+                    <td>Address</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var element in Model)//Cust //Emp
+                {
+                    <tr>
+                        <td>@element.Id</td>
+                        <td>@element.Name</td>
+                        <td>@element.Addres</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

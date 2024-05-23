@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LS33mmLkPFrgSvwMKm2cBNV2mjyRlPOZ0FdkNatb0OGvys7ATVw/Bj1UAc9UgCUQay5aGgh+fiBkRX2FwfBi8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day12\\Day12\\Demos\\CDACDemos\\CDACDemos\\21Collection\\21Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sumit\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sumit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Sumit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
