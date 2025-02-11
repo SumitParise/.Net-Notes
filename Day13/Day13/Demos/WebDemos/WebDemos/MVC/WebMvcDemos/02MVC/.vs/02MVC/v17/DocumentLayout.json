@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day13\\Day13\\Demos\\WebDemos\\WebDemos\\MVC\\WebMvcDemos\\02MVC\\Models\\Emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day13\\Day13\\Demos\\WebDemos\\WebDemos\\MVC\\WebMvcDemos\\02MVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day13\\Day13\\Demos\\WebDemos\\WebDemos\\MVC\\WebMvcDemos\\02MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day13\\Day13\\Demos\\WebDemos\\WebDemos\\MVC\\WebMvcDemos\\02MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:51:03.309Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,7 +55,8 @@
               "RelativeToolTip": "Models\\Emp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:37:21.021Z"
+              "WhenOpened": "2024-05-12T10:37:21.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,9 +66,10 @@
               "RelativeDocumentMoniker": "Controllers\\DacController.cs",
               "ToolTip": "C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day13\\Day13\\Demos\\WebDemos\\WebDemos\\MVC\\WebMvcDemos\\02MVC\\Controllers\\DacController.cs",
               "RelativeToolTip": "Controllers\\DacController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:07:06.528Z"
+              "WhenOpened": "2024-05-12T10:07:06.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,10 +79,20 @@
               "RelativeDocumentMoniker": "DAL\\EmpDbContext.cs",
               "ToolTip": "C:\\Study\\PG-DAC MAR-24\\.NET Framework\\Day13\\Day13\\Demos\\WebDemos\\WebDemos\\MVC\\WebMvcDemos\\02MVC\\DAL\\EmpDbContext.cs",
               "RelativeToolTip": "DAL\\EmpDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T10:07:02.154Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 864,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\DAL"
+    "\\DAL",
+    "\\Models"
   ],
-  "SelectedNode": "\\DAL\\EmpDbContext.cs",
+  "SelectedNode": "\\appsettings.Development.json",
   "PreviewInSolutionExplorer": false
 }
